@@ -2,9 +2,26 @@ Perbedaan tools ticketing dari Trello vs Jira vs Youtrack
 Analisis :
 1. Trello
 a. Alur Penggunaan 
+Buat Akun -> Buat Tim Kerja -> Buat Board -> Buat List -> Buat Cards -> Mulai 
+Sumber : https://www.domainesia.com/tips/trello/
+b. Kelebihan
+- 
+c. Kekurangan
+- 
+2. Jira
+a. Alur Penggunaan
+Buat Akun -> Pilih Template -> Atur Kolom Kerja -> Buat Topik -> Undang Tim -> Mulai 
+Sumber : https://www.atlassian.com/software/jira/guides/getting-started/basics
+b. Kelebihan
+-
+c. Kekurangan
+3. Youtrack
+a. Alur Penggunaan
 
-- Alur penggunaan tools dari Trello vs Jira vs Youtrack
-- Kelebihan dari masing-masing tools
-- Kekurangan dari masing-masing tools
+b. Kelebihan
+- 
+c. Kekurangan
+- 
 
 Kesimpulannya, manakah yang dari ketiga tools yang diadopsi oleh ticketing Refactory
+Kesimpulan yang dapat diambil adalah jira. Dari segi tampilan board atau dasboard terdiri dari kolom baklog, in progress, done, finish
