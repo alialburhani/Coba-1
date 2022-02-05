@@ -3,4 +3,8 @@ Stack : Backend
 Bahasa Pemrograman : Java
 Kegiatan : Preparation Class Day 3
 Tugas : Distributed Git, Tools Ticketing, WPM, Hackerrank dan Duolingo
+<<<<<<< Updated upstream
 Parameter : Duolingo minimal 100 EXP, WPM minimal 40, Hackerrank minimal 2 solved 
+=======
+Parameter : Duolingo minimal 100 EXP, WPM minimal 40, dan Hackerrank minimal 2 
+>>>>>>> Stashed changes
