@@ -8,7 +8,7 @@ Berdasarkan situs resmi setiap tools, Trello menawarkan pilihan penggunaan free,
 Menurut saya, secara tampilan dashboard aplikasi Jira memiliki tampilan paling simpel dan paling kompleks adalah Youtrack. Fitur pelaporan dimiliki oleh Jira dan Youtrack dimana menjadi nilai plus dalam evaluasi/review pekerjaan oleh atasan dibandingkan Trello. 
 
 2. Kelebihan 
-Berdasarkan sumber 
+Berdasarkan sumber https://thinkmobiles.com/blog/planner-trello-asana-comparison/ 
 a. Jira
 - Pengaturan mudah
 - Sangat mudah diubah, dan fleksibel
@@ -43,19 +43,31 @@ c. Youtrack
 
 3. Kekurangan
 a. Jira
--
--
--
+- Tidak dirancang untuk proyek open source 
+- UI yang susah dimengerti 
+- Susah dalam pembuatan workflow
+- Tidak bisa share agile board kepada orang luar
+- Pengerjaan custom cukup susah dan memakan waktu
+- Tidak mungkin mengedit workflow yang aktif
+- Tidak bisa membuat sub proyek
+- Susah mempelajari kurva apabila tidak berpengalaman dalam menggunakan software manajemen proyek
+- Membuat custom report sangat rumit
 
 b. Trello 
--
--
--
+- Kemampuan cukup terbatas
+- Keyboard shortcut terbatas
+- Integrasi email terbatas
+- Pilihan export tidak ada dalam penggunaan Free
+- Card dan task terbatas untuk satu proyek
+- Tidak bisa membuat tag bebas
+- UI susah bekerja untuk card dan task yang banyak
+- Keamanan rentan
 
 c. Youtrack
--
--
--
+- Time-tracking dan waktu reporting tidak fleksibel
+- Proyek overview tidak terimplementasikan
+- UI susah digunakan 
+- Proses upgrade cukup rumit
 
 Kesimpulannya, manakah yang dari ketiga tools yang diadopsi oleh ticketing Refactory?
-Kesimpulan yang dapat saya ambil dari penjelasan diatas adalah jira. Dari segi tampilan board atau dasboard terdiri dari kolom backlog, in progress, done, finish ditambah dengan fitur pelaporan dalam evaluasi/review pekerjaan oleh atasan.
+Kesimpulan yang dapat saya ambil dari penjelasan diatas adalah Jira. Dari segi tampilan board atau dasboard terdiri dari kolom tools ticketing Refactory adalah Backlog, In Progress, Done, Resolved. Sedangkan tampilan board/dasboar Jira terdiri dari To Do, In Progress, Code Review, Done. Ditambah dengan fitur pelaporan dalam evaluasi/review pekerjaan oleh atasan. 
